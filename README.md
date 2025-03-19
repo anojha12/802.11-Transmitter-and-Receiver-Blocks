@@ -1,10 +1,10 @@
 # Implementing-802.11-Transmitter-and-Receiver
 
-#Overview
+# Overview
 
 This repository implements an OFDM (Orthogonal Frequency Division Multiplexing) communication system in MATLAB. It represents a simplified version of the WiFi (802.11) PHY layer, including packet construction at the transmitter and packet detection, synchronization, and decoding at the receiver.
 
-##Features
+## Features
 
 Transmitter Implementation (OFDM_TX.m): Constructs and transmits OFDM packets, including preambles, pilots, and data symbols.
 
@@ -14,7 +14,7 @@ Modulation & Demodulation (mapping.m & demapper.m): Handles Forward Error Correc
 
 Channel Effects Simulation: Includes CFO (Carrier Frequency Offset), AWGN (Additive White Gaussian Noise), and other impairments.
 
-##Files Description
+## Files Description
 
 OFDM_TX.m: Implements the transmitter, generating an OFDM waveform with preambles, IFFT processing, cyclic prefix addition, and interpolation.
 
