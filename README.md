@@ -1,4 +1,4 @@
-# Implementing-802.11-Transmitter-and-Receiver
+# Implementing-802.11-Transmitter-and-Receiver Blocks
 
 ## Overview
 
