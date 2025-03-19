@@ -1,6 +1,6 @@
 # Implementing-802.11-Transmitter-and-Receiver
 
-# Overview
+## Overview
 
 This repository implements an OFDM (Orthogonal Frequency Division Multiplexing) communication system in MATLAB. It represents a simplified version of the WiFi (802.11) PHY layer, including packet construction at the transmitter and packet detection, synchronization, and decoding at the receiver.
 
