@@ -170,7 +170,6 @@ rx_syms= reshape(rxdata, 1, []);
 
 %% Demodulation
 
-
 figure(4);
 scatter(real(rx_syms), imag(rx_syms),'filled');
 title(' Signal Space of received bits');
